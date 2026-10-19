@@ -52,4 +52,4 @@ Rules I followed:
 ## Files
 
 - `lawyers_hub.sql`: builds the raw database
-- (add your cleaning queries and analysis queries here, for example `01_cleaning.sql` and `02_analysis.sql`)
+- 01_cleaning.sql`: cleaning queries (routine text and date fixes aren't included)
