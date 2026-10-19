@@ -52,4 +52,5 @@ Rules I followed:
 ## Files
 
 - `lawyers_hub.sql`: builds the raw database
-- 01_cleaning.sql`: cleaning queries (routine text and date fixes aren't included)
+- `01_cleaning.sql`: cleaning queries (routine text and date fixes aren't included)
+- `02_analysis.sql`: the business questions and queries.
